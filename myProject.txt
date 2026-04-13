@@ -1,0 +1,23 @@
+* commit 93ed4fb53f3e3aea90d75404863fe9f76d8d70bf
+| Author: Paul Matewere <Bsc-inf-03-22@unima.ac.mw>
+| Date:   Fri Mar 6 14:07:21 2026 +0200
+| 
+|     Add gitignore file
+| 
+* commit 301cbfda4ace28f714916d9d43ba5156dfe01a3f
+| Author: Paul Matewere <Bsc-inf-03-22@unima.ac.mw>
+| Date:   Fri Mar 6 13:26:09 2026 +0200
+| 
+|     first commit
+| 
+* commit 82587219a1726d40bdf2d854eb35a3d2353613cf
+| Author: Paul Matewere <Bsc-inf-03-22@unima.ac.mw>
+| Date:   Fri Mar 6 13:16:59 2026 +0200
+| 
+|     first commit
+| 
+* commit 58bca5ac36f58d62ea67fd821fbaf7dc6b9ba90f
+  Author: Paul Matewere <Bsc-inf-03-22@unima.ac.mw>
+  Date:   Fri Mar 6 12:42:18 2026 +0200
+  
+      Initial commit
